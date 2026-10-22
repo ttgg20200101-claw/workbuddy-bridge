@@ -89,7 +89,9 @@ Bowen · 20 年产品人，亲手用 AI 解决 100 个真实问题 · AI 实战 
 
 抖音：[Bowen的AI实战笔记](https://www.douyin.com/user/MS4wLjABAAAAsVy4x0FpjE8j4epQQZtZkg2OOU2Vb3G5UweYp5ZZwd0)（抖音号 1083328779）
 
-另一个开源项目：[vibe-fx](https://github.com/ttgg20200101-claw/vibe-fx)，让 AI 写代码做动效视频的 Canvas 特效库。
+其他开源项目：
+- [meeting-minutes](https://github.com/ttgg20200101-claw/meeting-minutes)：跟 AI 说「开会」就录音，说「结束」就出会议纪要并核实事实说法，可以搭配本项目派 WorkBuddy 核实
+- [vibe-fx](https://github.com/ttgg20200101-claw/vibe-fx)：让 AI 写代码做动效视频的 Canvas 特效库
 
 ## License
 
